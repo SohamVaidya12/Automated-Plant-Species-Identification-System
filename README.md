@@ -1,4 +1,8 @@
-
+<div align="center">
+  
+ <img src="logo1.png" alt="Automated-Plant-Species-Identification-System Logo" width="40%">
+ 
+</div>
 
 # Automated-Plant-Species-Identification-System
 
