@@ -66,7 +66,7 @@ This project focuses on building an **Automated Plant Species Detection System**
 
 ---
 ## 📊**Observations**
-- **Classification Accuracy**: Achieved a high testing accuracy of 90 percent, demonstrating reliable generalization across 10 species.  
+- **Classification Accuracy**: Achieved a high testing accuracy of 90%, demonstrating reliable generalization across 10 species.  
 - **Performance**: The model effectively detected distinct species based on subtle visual differences in leaves.  
 - **Overfitting Mitigation**: Implemented `Dropout` layers to control overfitting and achieved a balanced performance.  
 - **Ease of Use**: The final model supports the prediction of species from input images and is deployable for practical usage.  
