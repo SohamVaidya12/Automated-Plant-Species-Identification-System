@@ -77,5 +77,16 @@ The **Automated Plant Species Detection System** successfully demonstrates the p
 
 This initiative not only underscores the integration of AI in agriculture and research but also paves the way for more innovative, data-driven solutions in biodiversity monitoring.
 
+---
+## 🏆 Achievements
+
+- **IJSREM Paper Publication**:  
+   The **Automated Plant Species Detection: A CNN Approach for Image Classification** has been featured in an **IJSREM paper**, contributing to the academic community in the field of Image Classification.  
+   🎓 [Read the IJSREM Paper here](https://ijsrem.com/download/automated-plant-species-detection-a-cnn-approach-for-image-classification/)
+
+- **Licensed Dataset**:  
+   The ** Dataset** used in the Automated Plant Species Detection System has been licensed and made publicly available on Kaggle.  
+   📊 [Explore and Download the Dataset here](https://www.kaggle.com/datasets/sohamvaidya1627/campusflorad10)
+
 
 
